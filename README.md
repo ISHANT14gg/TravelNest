@@ -58,7 +58,7 @@ The application follows the **MVC (Model-View-Controller)** architecture to ensu
 - **Connect-Flash** – Flash message middleware
 
 ### Deployment
-- **Vercel** – Cloud application hosting
+- **Render** – Cloud application hosting
 
 ---
 
