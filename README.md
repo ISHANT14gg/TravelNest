@@ -1,4 +1,4 @@
-# 🌍 WanderLust – Travel Listing Platform
+# 🌍 TravelNest – Travel Listing Platform
 
 A full-stack travel listing and destination exploration web application that allows users to discover places, create and manage listings, upload images, view locations on interactive maps, and share experiences through reviews and ratings. Built with a focus on clean architecture, security, and scalability.
 
@@ -12,7 +12,7 @@ A full-stack travel listing and destination exploration web application that all
 
 ## 📖 Project Overview
 
-WanderLust provides a comprehensive platform where users can explore travel destinations and share detailed listings. Each listing includes images, descriptions, pricing, location details, and user reviews. Authenticated users can create, edit, and delete their own listings, while visitors can browse and review destinations.
+TravelNest provides a comprehensive platform where users can explore travel destinations and share detailed listings. Each listing includes images, descriptions, pricing, location details, and user reviews. Authenticated users can create, edit, and delete their own listings, while visitors can browse and review destinations.
 
 The application follows the **MVC (Model-View-Controller)** architecture to ensure better organization, maintainability, and scalability. Third-party services are integrated for cloud image storage and map visualization, along with secure authentication and authorization.
 
@@ -227,11 +227,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👨‍💻 Author
 
-**Suraj Singh Rawat**  
+**Ishant Sharma**  
 B.Tech Student | Full Stack Web Developer
 
-- GitHub: [@Surajrawat7017](https://github.com/Surajrawat7017)
-- Project Repository: [WanderLust](https://github.com/Surajrawat7017/wanderlust)
+- GitHub: [@ISHANT14gg](github.com/ISHANT14gg)
+- Project Repository: [TravelNest](https://github.com/ISHANT14gg/TravelNest)
 
 ---
 
@@ -239,6 +239,6 @@ B.Tech Student | Full Stack Web Developer
 
 ### 🌟 If you found this project helpful, please give it a star! 🌟
 
-Made with ❤️ and ☕ by [Suraj Singh Rawat](https://github.com/Surajrawat7017)
+Made with ❤️ and ☕ by [Ishant Sharma](https://github.com/ISHANT14gg)
 
 </div>
